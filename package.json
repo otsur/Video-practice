@@ -1,0 +1,19 @@
+{
+  "name": "video-practice",
+  "version": "1.0.0",
+  "description": "backend practice with video handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otsur/Video-practice.git"
+  },
+  "author": "otsur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otsur/Video-practice/issues"
+  },
+  "homepage": "https://github.com/otsur/Video-practice#readme"
+}
